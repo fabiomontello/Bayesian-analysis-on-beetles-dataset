@@ -1,0 +1,12 @@
+base
+coda
+rjags
+R2jags
+knitr
+kableExtra
+dplyr
+tidyr
+ggplot2
+ggmcmc
+lattice
+caret
